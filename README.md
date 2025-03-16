@@ -1,6 +1,5 @@
 ## Summary
-
-## Project Name: MindCare AI
+Project Name: MindCare AI
 Brief Description: MindCare AI is an intelligent chatbot and emotional well-being assistant that provides real-time mental health support through natural language processing (NLP) and sentiment analysis. It aims to detect stress, anxiety, and depression through text and voice interactions and offer personalized coping strategies, mindfulness exercises, and emergency intervention suggestions.
 
 ## Background:
